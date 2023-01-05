@@ -1,0 +1,38 @@
+body{
+    padding: 100px;
+}
+.title-line{
+    text-align: center;
+}
+.login-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(112, 111, 111);
+    padding: 40px;
+    background-color: rgb(17, 179, 238);
+   
+}
+
+#transarea{
+    display: none;
+
+}
+.deposit{
+   background-color :rgb(8, 66, 85);
+}
+.withdrow{
+background-color: peru;
+}
+.balance{
+    background-color :rgb(219, 42, 101)
+}
+.status{
+    margin: 0 20px;
+    padding: 30px;
+    color: white;
+    border-radius: 20px;
+}
+.onpage{
+   display: block;
+
+}
